@@ -1,6 +1,7 @@
 # Ninja Ripper v2.10
 
-<img width="899" height="501" alt="image" src="https://github.com/user-attachments/assets/dc7f292a-2443-4e99-810e-065c4cb97cb4" />
+<img width="559" height="256" alt="image" src="https://github.com/user-attachments/assets/64de77ca-c199-448b-ab58-5520b0296dff" />
+
 
 **Extract 3D models, textures, and shaders directly from any running game or 3D application.**
 
